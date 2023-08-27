@@ -68,7 +68,6 @@ on the dashboard and divide by 2 (2 messages get sent per 1 transaction).
 * Need to make sure application can handle simultaneous requests properly: send and receive money requests come in at the same time - how do we handle that? We need to make sure that we don't end up with negative balance, for example. This is where messaging queues can help.
 
 #
-#
 Thanks for the opportunity to do this assignment. I had fun doing it, and I learned a lot. I hope you feel like reading this was worth your time as well.
 
 -Peter
